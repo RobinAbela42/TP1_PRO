@@ -1,0 +1,28 @@
+## Gameplay
+
+Timer delete bullets C
+Rocks spawned randomly C
+Rocks keep spawning C
+Rocks damage ship C
+Adding speed to Rocks C
+Adding HP To rocks C
+
+Rocks getting destroyed C
+
+
+## UI
+
+Map X
+Menu V
+Designed rocks X
+Score V
+HP V
+Death Screen V
+Pause V
+
+## Miscelanous
+
+
+## BUG
+
+Spawn sur un destroyable V

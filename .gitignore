@@ -1,0 +1,13 @@
+# Visual Studio 2015 user specific files
+
+*.vsconfig
+.idea/
+.vs/
+
+
+# Ignore build folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/

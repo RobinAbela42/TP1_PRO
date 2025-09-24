@@ -1,0 +1,13 @@
+#Ignore VS Things
+
+*.vsconfig
+.idea/
+.vs/
+
+#All unused folders
+
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+/Build/Windows
