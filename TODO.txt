@@ -26,3 +26,5 @@ Pause V
 ## BUG
 
 Spawn sur un destroyable V
+
+Le bug persiste ... 
